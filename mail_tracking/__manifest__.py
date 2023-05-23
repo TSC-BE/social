@@ -28,12 +28,12 @@
         "web.assets_backend": [
             "mail_tracking/static/src/css/mail_tracking.scss",
             "mail_tracking/static/src/css/failed_message.scss",
-            "mail_tracking/static/src/js/mail_tracking.esm.js",
-            "mail_tracking/static/src/js/message.esm.js",
+            # "mail_tracking/static/src/js/mail_tracking.esm.js",
+            # "mail_tracking/static/src/js/message.esm.js",
             "mail_tracking/static/src/js/failed_message/mail_failed_box.esm.js",
             "mail_tracking/static/src/js/failed_message/thread.esm.js",
             "mail_tracking/static/src/js/models/thread.esm.js",
-            "mail_tracking/static/src/js/chatter.esm.js",
+            # "mail_tracking/static/src/js/chatter.esm.js",
             "mail_tracking/static/src/js/discuss/discuss.esm.js",
         ],
         "web.assets_qweb": [
